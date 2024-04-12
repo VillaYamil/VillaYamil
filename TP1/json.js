@@ -33,4 +33,5 @@
 }
 console.log(jugador.clubes[0]);*/
 //document.write("El personaje "+personaje.name+" esta ",personaje.status);
-document.getElementById("nombre y estado").innerHTML="El personaje "+personaje.name+" esta "+personaje.status;
+
+//document.getElementById("descripcion").innerHTML="El personaje "+personaje.name+" esta "+personaje.status;
