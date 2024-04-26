@@ -1,4 +1,7 @@
 /* required styles */
+*{
+    text-align: center; /*centra TODO el texto de la pagina*/
+}
 #map { height: 400px; }
 .leaflet-pane,
 .leaflet-tile,
